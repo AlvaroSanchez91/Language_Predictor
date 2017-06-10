@@ -7,7 +7,7 @@ have been constructed entierly in this project, we just used libraries for clean
 ## Data_and_model.py 
 
 Here we see how to obtain the data needed to train (form the corpus mentioned), and we see
-the code of the model, but is better expained in Model.ipynb.
+the code of the model, but it's better expained in Model.ipynb.
 
 ## Model.ipynb
 
